@@ -1,2 +1,3 @@
 # grads_to_python
-convert GrADS code of prof. Wang  to python code. 
+Convert GrADS codes of prof. Wang to python code. 
+Referred to Rackhun Son's. I revised a few errors and tried other methods/functions.
